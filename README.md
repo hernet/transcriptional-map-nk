@@ -3,4 +3,4 @@ We describe a transcriptional reference map of human natural killer (NK) cells b
 
 
 ### Data
-The gene expression data generated for this paper is available at NCBI GEO with accession number GSEXXXX and raw sequencing data is available at EGA with accession number EGAS50000000014. The details about the publicly available data included in the analysis are available in Supplemental tables S1, S2 and S3. Processed data and models have also been made available on Zenodo (https://doi.org/10.5281/zenodo.10139343) and as an online resource at http://nk-scrna.malmberglab.com/.
+The gene expression data generated for this paper is available at NCBI GEO with accession number GSE245690 and raw sequencing data is available at EGA with accession number EGAS50000000014. The details about the publicly available data included in the analysis are available in Supplemental tables S1, S2 and S3. Processed data and models have also been made available on Zenodo (https://doi.org/10.5281/zenodo.10139343) and as an online resource at http://nk-scrna.malmberglab.com/.
