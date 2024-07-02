@@ -7,4 +7,4 @@ The gene expression data generated for this paper is available at NCBI GEO with 
 
 ### Citation
 
-https://www.nature.com/articles/s41590-024-01884-z
+Netskar, H., Pfefferle, A., Goodridge, J.P. et al. Pan-cancer profiling of tumor-infiltrating natural killer cells through transcriptional reference mapping. Nat Immunol (2024). https://doi.org/10.1038/s41590-024-01884-z
